@@ -1,0 +1,30 @@
+@import 'css/nav.css';
+@import 'css/header.css';
+@import 'css/about.css';
+@import 'css/services.css';
+@import 'css/freelance.css';
+@import 'css/clients.css';
+@import 'css/works.css';
+@import 'css/blog.css';
+@import 'css/contact.css';
+@import 'css/footer.css';
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root{
+    --primary: #3dcfd4;
+    --dark: #161616;
+    --pure: #ffffff;
+    --ternary: #898989;
+    --light: #f2f2f2;
+    --secondary: #070606;
+}
+body{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+    letter-spacing: 2px;
+}
