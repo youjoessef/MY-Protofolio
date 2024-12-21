@@ -54,7 +54,7 @@
 .works-hover:hover{
     opacity: 1;
 }
-/*
+
 @media only screen and (max-width: 1024px) {
     .works-items{
         display: block;
@@ -64,4 +64,4 @@
         margin: 20px;
         margin-left: 110px;
     }
-}*/
+}
