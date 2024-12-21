@@ -94,7 +94,7 @@ color: var(--primary);
     from {opacity: .4}
     to {opacity: 1}
 }
-/*
+
 @media only screen and (max-width: 1024px) {
     .mySlides img{
         margin-left: 310px;
